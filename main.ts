@@ -1,3 +1,3 @@
 basic.forever(function () {
-    display.writeString("Hallo Jacob", 0, 500)
+    display.writeString("Hallo Jacob", 1, 500)
 })
